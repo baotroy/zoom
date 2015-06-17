@@ -3,7 +3,7 @@
         
         <div style="  position: absolute;
                   left: 0;
-                  top: -50px;
+                  top: 0;
                   width: 100%;
                   height: 644px;
                   background: #000;
